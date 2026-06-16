@@ -1,11 +1,13 @@
 # TascaS107
 
-Description: 
+* Description: 
 PHP Handling errors
 Try-catch exercise 
+Exceptions
+Validations
 
-Technology:
+* Technology:
 Backend - php 
 
-Instalation: 
-https://github.com/cscmx/TascaS108.git
+* Instalation: 
+https://github.com/cscmx/TascaS107.git
