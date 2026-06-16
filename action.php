@@ -57,13 +57,13 @@ $_SESSION['user_email'] = $email;
 //echo "Tu email: ".$email." ha quedado registrado"."<br>";
 
 
-/*MAGIC CONSTANTS
+//MAGIC CONSTANTS
 
 echo "Usando constantes mágicas: "."<br>";
 echo "Texto escrito en la línea: ".__LINE__."<br>";
 echo "Este archivo está en la carpeta: ".__DIR__;
 
-
+/*
 CODIGO TRY-CATCH
 
 try {
